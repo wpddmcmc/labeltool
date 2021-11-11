@@ -1,6 +1,7 @@
 # LabelTool
 ---
 Mingcong Chen   mingcong.chen@ia.ac.cn
+
 **CASIA SKL-MCCS**
 ---
 Fast label tool based on random walk.
@@ -18,8 +19,13 @@ conda install numpy==1.20.1
 ```
 ## Usage
 Press \'esc\' to QUIT
+
 Press \'c\' to change color
+
 'Press \'m\' to change mode.
+
 Press \'s\' to label and save
+
 Press \'r\' to reset
+
 Press \'b\' to back to last pic
