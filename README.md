@@ -1,6 +1,10 @@
 # LabelTool
+![](https://img.shields.io/badge/mingcong-projects-brightgreen) ![](https://img.shields.io/badge/CASIA-micro-yellowgreen) 
+![logo](./data/logo.png)
 ---
-Mingcong Chen   mingcong.chen@ia.ac.cn
+**AUTHOR:** Mingcong Chen\
+**CONTACT:** mingcong.chen@ia.ac.cn\
+**WEBSITE:** https://mingcongchen.netlify.app/
 
 **CASIA SKL-MCCS**
 ---
@@ -18,6 +22,10 @@ conda install scipy==1.6.2
 conda install numpy==1.20.1
 ```
 ## Usage
+Copy the image need to label to ./data/imgs then run the code by
+```python
+python labeltool.py
+```
 Press \'esc\' to QUIT
 
 Press \'c\' to change color
@@ -29,3 +37,5 @@ Press \'s\' to label and save
 Press \'r\' to reset
 
 Press \'b\' to back to last pic
+
+![usage](./data/usage.gif)
